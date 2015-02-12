@@ -1,0 +1,25 @@
+{
+  "name": "deepbody",
+  "version": "0.0.1",
+  "description": "A way to access and set objects by using paths instead of just keys also converting a object to paths and back.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:pellepelle3/deepbodyjs.git"
+  },
+  "keywords": [
+    "Key",
+    "value",
+    "deepbody",
+    "paths"
+  ],
+  "author": "Antonio \"pelle\" Pellegrino",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pellepelle3/deepbodyjs/issues"
+  },
+  "homepage": "https://github.com/pellepelle3/deepbodyjs"
+}
