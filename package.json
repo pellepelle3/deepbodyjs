@@ -1,6 +1,6 @@
 {
   "name": "deepbody",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A way to access and set objects by using paths instead of just keys also converting a object to paths and back.",
   "main": "index.js",
   "scripts": {
@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/pellepelle3/deepbodyjs/issues"
   },
-  "homepage": "https://github.com/pellepelle3/deepbodyjs"
+  "homepage": "https://github.com/pellepelle3/deepbodyjs",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
 }
