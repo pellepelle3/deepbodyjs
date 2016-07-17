@@ -1,6 +1,6 @@
 {
   "name": "deepbody",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "A way to access and set objects by using paths instead of just keys also converting a object to paths and back.",
   "main": "index.js",
   "scripts": {
