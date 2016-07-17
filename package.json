@@ -22,7 +22,5 @@
     "url": "https://github.com/pellepelle3/deepbodyjs/issues"
   },
   "homepage": "https://github.com/pellepelle3/deepbodyjs",
-  "dependencies": {
-    "underscore": "^1.8.3"
-  }
+  "dependencies": {}
 }
